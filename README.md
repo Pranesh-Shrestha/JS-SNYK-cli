@@ -1,4 +1,6 @@
 # Getting started with the Snyk CLI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPranesh-Shrestha%2FJS-SNYK-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPranesh-Shrestha%2FJS-SNYK-cli?ref=badge_shield)
+
 
 ## Introduction to Snyk and the Snyk CLI
 
@@ -128,3 +130,7 @@ Due to the CLI's extensive usage and intricate nature, even minor modifications 
 In the spirit of transparency to Snyk customers and CLI users, we will continue to working in public. However, going forward, we are closed to contributions.
 
 We appreciate and extend our gratitude to the Snyk community.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPranesh-Shrestha%2FJS-SNYK-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPranesh-Shrestha%2FJS-SNYK-cli?ref=badge_large)
